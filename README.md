@@ -32,5 +32,7 @@ Run Client:
 java Client
 ```
 
-## Author
-Aditya Kumar
+## Future Improvements
+- Add encrypted messaging
+- Add file sharing support
+- Improve user interface
