@@ -5,6 +5,7 @@ import java.net.*;
 import java.util.*;
 
 public class Server {
+  // Server starts here
     JFrame frame;
     JTextArea chatArea;
     JTextField messageField;
