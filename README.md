@@ -32,7 +32,8 @@ Run Client:
 java Client
 ```
 
-## Future Improvements
+## Future Enhancements
 - Add encrypted messaging
-- Add file sharing support
-- Improve user interface
+- Improve UI responsiveness
+- Add multi-client support
+- Add secure authentication
