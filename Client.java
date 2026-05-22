@@ -3,6 +3,7 @@ import java.awt.*;
 import java.io.*;
 import java.net.*;
 
+// Client connection starts here
 public class Client {
     JFrame frame;
     JTextArea chatArea;
