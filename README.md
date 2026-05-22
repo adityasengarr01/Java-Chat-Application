@@ -36,3 +36,4 @@ java Client
 - Add encrypted messaging
 - Improve UI responsiveness
 - Add multi-client support
+- Add secure authentication
