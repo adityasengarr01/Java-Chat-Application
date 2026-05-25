@@ -1,3 +1,4 @@
+
 # Java Chat Application
 
 A real-time multi-user chat application built using Java Socket Programming and Java Swing.
@@ -37,3 +38,8 @@ java Client
 - Improve UI responsiveness
 - Add multi-client support
 - Add secure authentication
+
+ ## Planned Features
+- Dark mode support
+- Better client handling
+- Improved error messages
